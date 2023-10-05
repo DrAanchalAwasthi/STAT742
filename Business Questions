@@ -1,0 +1,25 @@
+### Business Questions
+* Which day of the year company made maximum revenue?
+* What is mean sale per day?
+* Organization want to implement a new HR policy in which Zone Manager (Zip is considered as Zone) can grant leaves to employee when business inflow is a bit low. What are those days in different months?
+* What is Median invoice genration rate per month?
+* what is average invoice value in 2022? What is trend over month-on-month?
+* which pincode has generated maximum revenue in June-2023? Do the same pincode have best revenue/invoice?
+* There was a print media campaign rolled-out during 23-May-2023 to 31-May-2023. did this made any impact on sale? Consider sale of April and June 2023 for analysis.
+* There was a Electronic media campaign rolled-out during 20-Feb-2023 to 28-Feb-2023. did this made any impact on sale? Consider sale of January and March-April 2023 for analysis.
+* There was a Social media campaign rolled-out during 01-Jul-2023 to 31-Jul-2023. did this made any impact on sale? Consider sale of April and June 2023 for analysis.
+* Which campaign made the best and least impact on Sale?
+
+### *Customer-Base Questions*
+* Which pincode have maximum number of customers?
+* Which pincode have maximum/minimum number of Male and female customers?
+* What is average age of female population in pincode with maximum male customers?
+* do male and female have equal average age?
+* which pincode have minimum/maximum average difference of age?
+
+### *Quetions*
+* Do we have different patterns in buying behaviour between different customer gender?
+* Which Pincode have least variation in the sale?
+* Which are top 10 revenue generating customers per month?
+* Which are top 5 customers which are generating maximum revenue pincodes?
+* Consider five year age window as age group, is there any difference in sales? consider gender as two different populations.
