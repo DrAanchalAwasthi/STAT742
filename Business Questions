@@ -7,7 +7,7 @@
 * which pincode has generated maximum revenue in June-2023? Do the same pincode have best revenue/invoice?
 * There was a print media campaign rolled-out during 23-May-2023 to 31-May-2023. did this made any impact on sale? Consider sale of April and June 2023 for analysis.
 * There was a Electronic media campaign rolled-out during 20-Feb-2023 to 28-Feb-2023. did this made any impact on sale? Consider sale of January and March-April 2023 for analysis.
-* There was a Social media campaign rolled-out during 01-Jul-2023 to 31-Jul-2023. did this made any impact on sale? Consider sale of April and June 2023 for analysis.
+* There was a Social media campaign rolled-out during 01-Jul-2023 to 31-Jul-2023. did this made any impact on sale? Consider sale of June and August 2023 for analysis.
 * Which campaign made the best and least impact on Sale?
 
 ### *Customer-Base Questions*
@@ -15,7 +15,9 @@
 * Which pincode have maximum/minimum number of Male and female customers?
 * What is average age of female population in pincode with maximum male customers?
 * do male and female have equal average age?
+* which pincode have minimum/maximum difference of age?
 * which pincode have minimum/maximum average difference of age?
+
 
 ### *Quetions*
 * Do we have different patterns in buying behaviour between different customer gender?
